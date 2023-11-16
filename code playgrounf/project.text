@@ -1,0 +1,43 @@
+MAJOR FEATURES
+1. show products based on category
+2. shopping cart
+3. place your order
+4. track order
+5. user profile
+6. sign in & sign up
+7. user address location from google map
+8. zone based order
+9. user authentication
+10. firebase notification
+11. payment
+12. create new products on the backend
+13. see order details
+14. update order status
+
+TUTORIAL PART 1 
+1. step by step complex UI screen
+2. Animation Pageview
+3. Learn about app Architechture
+4. Api Client,Repository and Controllers
+5. Loading Load dependency
+6. Build models, classes , working with JSON, Map and List
+7. Build product cotroller , cart controller and data precrssing
+8. Responsive lay out 
+9. Get better at Dart Programming language
+
+TUTORIAL PART 2
+1.Step by step 8 complex UI screens(Front end Zero to Hero)
+2.Build models,classes ,working with JSON , Map and List for Google Map and User model
+3.Build Location,user,auth controllers and data processig
+4.pick user location based on user tap
+5.Keep tracking of user orders
+6.show user firebase notification
+7.Paypal payment set up
+8.Cover backend in detail step by step
+9.Zone based user location and service
+10.Master Dart Programming Language 
+
+TUTORIAL PART 3
+1.Take care platform specific issues like notification for both ios and android
+2.Turn mobile app to web app
+3. publish the app in app store
